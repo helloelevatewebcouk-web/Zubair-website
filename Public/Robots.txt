@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://zubairenterprises.netlify.app/sitemap.xml
